@@ -1,2 +1,22 @@
 # first-repository
-Practice repository for me to learn how to use GitHub.
+
+Welcome to my very first GitHub repository creation!
+
+##About
+This is a practice repository where I'm learning how to use GitHub.
+
+## What I'm Learning
+- Creating repositories
+- Making commits
+- Working with branches
+- Opening pull requests
+
+## How to Use
+Clone this repository and explore the files.
+
+```bash
+git clone https://github.com/szz023/first-repository.git
+```
+
+## Author
+Sametha Merrifield — [@szz023](https://github.com/szz023)
